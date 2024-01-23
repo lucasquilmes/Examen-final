@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "65944d1af69034d80b403e71"
+  },
+  "nombre": "Camiseta Blanca Basica",
+  "precio": 15.95,
+  "categoria": "Camisetas",
+  "enlace": "https://static.bershka.net/4/photos2/2024/V/0/2/p/2844/152/250/fbfa4fc4d4585bac0acf4bf3555ad7d1-2844152250_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "65944d26f69034d80b403e73"
+  },
+  "nombre": "Camiseta Van Gogh",
+  "precio": 19.95,
+  "categoria": "Camisetas",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/2424/130/800/68099c1d2ba5aa8f4f6698c40bfff181-2424130800_2_13_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "65944d2ff69034d80b403e75"
+  },
+  "nombre": "Camiseta Lovers",
+  "precio": 22.95,
+  "categoria": "Camisetas",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/2450/589/802/916240eb747a018549e5a15f7044af2c-2450589802_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659a9c69c113439756fa4f68"
+  },
+  "nombre": "Camiseta Lettering",
+  "precio": 19.95,
+  "categoria": "Camisetas",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7993/589/250/5cdca75c82c5a8125df9fb3e85c20df3-7993589250_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=chrome"
+},
+{
+  "_id": {
+    "$oid": "659a9ca6c113439756fa4f69"
+  },
+  "nombre": "Camiseta Cocodrilo",
+  "precio": 14.95,
+  "categoria": "Camisetas",
+  "enlace": "https://static.bershka.net/4/photos2/2024/V/0/2/p/2851/777/707/56f2d58a736901af0d2c7f1c82e5c9aa-2851777707_2_13_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=chrome"
+},
+{
+  "_id": {
+    "$oid": "659a9cd9c113439756fa4f6a"
+  },
+  "nombre": "Sudadera Negra",
+  "precio": 39.95,
+  "categoria": "Sudaderas",
+  "enlace": "https://static.bershka.net/4/photos2/2024/V/0/2/p/7387/190/800/5049cd4f8be77c3dd32359d50cb417c8-7387190800_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659a9d00c113439756fa4f6b"
+  },
+  "nombre": "Sudadera sin Capucha",
+  "precio": 34.95,
+  "categoria": "Sudaderas",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7456/130/250/3cd7f1b51a37782406ffde3701a7c277-7456130250_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659a9d13c113439756fa4f6c"
+  },
+  "nombre": "Sudadera Marron",
+  "precio": 39.95,
+  "categoria": "Sudaderas",
+  "enlace": "https://static.bershka.net/4/photos2/2024/V/0/2/p/7475/127/717/3c04fdf8cb0497bc4bcca7e88ad754d8-7475127717_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659a9d23c113439756fa4f6d"
+  },
+  "nombre": "Sudadera Beis",
+  "precio": 29.95,
+  "categoria": "Sudaderas",
+  "enlace": "https://i.pinimg.com/736x/a1/b0/e9/a1b0e90aa310e9c7231bc7c5894e84fc.jpg"
+},
+{
+  "_id": {
+    "$oid": "659a9d2cc113439756fa4f6e"
+  },
+  "nombre": "Sudadera Bleach",
+  "precio": 49.95,
+  "categoria": "Sudaderas",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/7446/127/800/abc63c6de319e09f3042ce0ca4f7c165-7446127800_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659a9d3bc113439756fa4f6f"
+  },
+  "nombre": "Pantalones Casual",
+  "precio": 23.95,
+  "categoria": "Pantalones",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5503/514/810/c1d970d5cb564b0329f2395f262624ed-5503514810_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659e04d7ab989f9588334ff7"
+  },
+  "nombre": "Pantalones Jogger",
+  "precio": 29.95,
+  "categoria": "Pantalones",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5462/665/800/f4f3fd9894a11f396f161612f271e873-5462665800_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659e0551ab989f9588334ff8"
+  },
+  "nombre": "Pantalones Cargo",
+  "precio": 24.95,
+  "categoria": "Pantalones",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5483/665/742/67b0b474038f1753a54923f4801b3c29-5483665742_2_4_0.jpg?imwidth=850&impolicy=bershka-itxmediumhigh&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659e05b0ab989f9588334ff9"
+  },
+  "nombre": "Pantalones Cremallera",
+  "precio": 29.95,
+  "categoria": "Pantalones",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5493/665/800/785fd9d31a2ad7bb92e07dc694b0dcd2-5493665800_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+},
+{
+  "_id": {
+    "$oid": "659e0660ab989f9588334ffa"
+  },
+  "nombre": "Pantalones Chandal",
+  "precio": 19.95,
+  "categoria": "Pantalones",
+  "enlace": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5517/478/600/ca1feb2f799d0c6c66ae0819f80d21ef-5517478600_2_4_0.jpg?imwidth=1920&impolicy=bershka-itxmedium&imformat=generic"
+}]
